@@ -1,0 +1,25 @@
+body {
+  background-color: #375;
+}
+
+h1 {
+text-align: center;
+color: white;
+font-family: cursive;
+font-size: 3.25rem;
+margin: 0.5rem auto;
+padding: 0.25;
+}
+
+#canvas {
+  display: block;
+  margin: 5px auto;
+  border: 10px solid #657;
+  background-color: white;
+}
+h2 {
+  text-align: center;
+  color: white;
+  font-size: 1rem;
+  margin: 0.5rem;
+}
